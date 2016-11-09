@@ -1,0 +1,21 @@
+created repo on GitHub
+mkdir basic_repo
+cd basic_repo
+echo "# basic_repo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/IkarosAnastasios/basic_repo.git
+git push -u origin master
+touch index.html
+touch styles.css
+edited documents
+git add index.html
+git add styles.css
+git commit -m "added html and css"
+git push -u origin master
+edited files
+git add -A
+git commit -m "revised html and css"
+git push -u origin master
+https://github.com/IkarosAnastasios/basic_repo
