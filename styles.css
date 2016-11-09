@@ -11,6 +11,9 @@ h1{
 p{
   margin-left: auto;
   margin-right: auto;
+  margin-top: 25px;
+  padding-bottom: 25px;
   text-align: justify;
   width:600px;
+  border-bottom: silver dotted 2px;
 }
